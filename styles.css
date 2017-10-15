@@ -1,32 +1,44 @@
 /* add your CSS here */
-.block-card{
-	display: block;
-	width: 300px;
+.block-card {
+    display: block;
+    width: 300px;
     border: 1px solid #cecece;
     padding: 15px;
     box-shadow: 10px 10px 0 0 #e6e6e6;
 }
-.animal-image{
-    border: 0px solid #cecece;
+
+
+.animal-image {
+    border: 0;
     width: 300px;
     max-width: 100%;
 }
-.block-card .block-card{
-	width: auto;
-	box-shadow: none;
-	 padding: 0 15px;
+
+
+.block-card .block-card {
+    width: auto;
+    box-shadow: none;
+     padding: 0 15px;
 }
-.italic{
-	font-style: italic;
+
+
+.italic {
+    font-style: italic;
 }
-.bold{
-	font-weight: bold;
+
+
+.bold {
+    font-weight: bold;
 }
+
+
 .animal-list {
     padding: 0;
     list-style: none;
 }
-.animal-name{
-	margin-top: 0;
+
+
+.animal-name {
+    margin-top: 0;
     margin-bottom: 15px;
 }
